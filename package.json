@@ -1,0 +1,19 @@
+{
+  "name": "discordjs",
+  "version": "1.0.0",
+  "description": "Templatka bota do Discorda napisana w discord.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cramber25/Discord-JS.git"
+  },
+  "author": "Cramber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cramber25/Discord-JS/issues"
+  },
+  "homepage": "https://github.com/Cramber25/Discord-JS#readme"
+}
